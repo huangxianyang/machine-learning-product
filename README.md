@@ -18,10 +18,10 @@
 #### step1: 环境配置
 1. 系统环境: centOS7.0+或ubuntu16.0+, 4G+内存
 2. 安装anaconda3
-<br> 安装包: /root/Anaconda3-2019.03-Linux-x86_64.sh
+<br> 安装包: Anaconda3-2019.03-Linux-x86_64.sh
 <br> 安装: bash Anaconda3-2019.03-Linux-x86_64.sh 
 3. 安装依赖
-<br> 依赖文件: /root/mlModel/requirements.txt
+<br> 依赖文件: requirements.txt
 <br> 安装: pip install -r requirements.txt
 #### step2: 启动/关闭服务
 1. 启动服务命令: bash start.sh
